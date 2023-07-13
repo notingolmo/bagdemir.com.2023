@@ -1,18 +1,50 @@
 <header>
-    <h1 id="title">
+    <nav id="navigation" style="text-align: right;">
+        <a href="http://blog.bagdemir.com">EN</a> | <a href="http://tr.bagdemir.com">TR</a></nav>
+    </nav>
+    <hr/>
+    <br />
+    <div style="margin: auto; width: 100%; justify-content: center; display: flex;">
+    <img class="u-photo" src="{{ site.author_pic }}" alt="Photo of {{site.author}}" style="border-radius: 50%; width: 150px; border: 4px solid #DDD;"/>
+    </div>
+    <h1 id="title" style="color: #AAA;">
         <a href="/">{{site.title}}</a>
     </h1>
     <p id="description">
         {{site.description}}
     </p>
 
+    <div id="social" style="margin: auto; width: 100%; justify-content: center; display: flex;">
+        <a href="https://twitter.com/{{site.twitter}}" rel="me">
+            <img src="/images/icons/icons8-twitter.svg" width="36" style="opacity:0.6">
+        </a>
+        
+        <a href="https://www.linkedin.com/in/{{site.in}}" rel="me">
+            <img src="/images/icons/icons8-linkedin.svg" width="36" style="opacity:0.6">
+        </a>
+               
+        <a href="https://github.com/{{site.github}}" rel="me">
+            <img src="/images/icons/icons8-octocat.svg" width="36" style="opacity:0.6">
+        </a>
+
+        <a href="https://www.youtube.com/channel/{{site.youtube}}" rel="me">
+            <img src="/images/icons/icons8-youtube-logo.svg" width="36" style="opacity:0.6">
+        </a>
+
+        <a href="https://stackoverflow.com/users/{{site.stack}}" rel="me">
+            <img src="/images/icons/icons8-stack-overflow.svg" width="36" style="opacity:0.6">
+        </a>
+    </div>
+
+    <br />
     <hr/>
     <nav id="navigation">
-        <a href="/">Home</a>
-        /
+        <a href="https://bagdemir.com">Home</a> | 
+        <a href="/">Articles</a>
+        |
         {% for page in site.pages %}
             <a href="{{ page.url }}">{{page.title}}</a>
-            /
+            |
         {% endfor %}
         <a href="/feed.xml">RSS</a>
     </nav>

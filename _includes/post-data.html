@@ -24,6 +24,7 @@
         {%- endif -%}
         &#8239;|&#8239; 
         {%- for tag in page.tags -%}
-            <a class="p-category" href="/tags/#{{ tag }}">#{{ tag }}</a> &#8239; 
+            <a class="p-category" href="/tags/#{{ tag }}">{{ tag }}</a>&#8239;
+            {%- if forloop.last == false %}, {% endif -%}
         {%- endfor -%}
     </p>

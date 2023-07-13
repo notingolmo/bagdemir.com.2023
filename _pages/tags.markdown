@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: Categories
 permalink: /tags/
 content-type: eg
 ---
@@ -18,7 +18,7 @@ content-type: eg
 </style>
 
 <div>
-    {% for tag in site.tags %}
+    {% for tag in site.categories %}
     <div>
         <h3 id="{{ tag | first }}">{{ tag | first | capitalize }}</h3>
         <ul>

@@ -18,30 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Watery Theme for Jekyll 🚰
-email: mail@brennanbrown.ca
+title: Never send a human to do a machine's job.
+email: erhan@bagdemir.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A minimalist, bare-bones theme for Jekyll only using the Water.css
-  framework while still following the best practices possible for
-  accessibility and search-engine optimization.
+  Hey there, here is Erhan and I'm a software engineer and a passionate photographer and in this blog I am writing about information technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://watery.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bagdemir.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: brennanbrown/watery
-twitter: brennankbrown
-github: brennanbrown
+twitter: notingolmo
+github: notingolmo
+stack: 481863/erhan-bagdemir?tab=profile
+in: erhan-bagdemir
+youtube: UC6pZFa7DTotmtLraxtxDxfQ
 
 google_analytics:
 comments: true
 disqus: watery-jekyll
 
-author: Brennan K. Brown
+author: Erhan Bagdemir
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 27-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+  Hey there, my name is Erhan and I'm a software engineer and a passionate photographer writing about information technology.
+author_pic: /images/profile_2023.png
 
 paginate: 4
 paginate_path: "/:num/"
@@ -60,7 +57,7 @@ plugins:
   - jekyll-paginate
 permalink: /:title
 
-theme_switcher: true
+theme_switcher: false
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.

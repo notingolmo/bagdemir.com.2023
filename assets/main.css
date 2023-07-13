@@ -1,3 +1,16 @@
+@font-face {
+    font-family: "Roboto";
+    src: url('fonts/Roboto-Regular.ttf');
+}
+
+body {
+    font-family: "Roboto";
+}
+
+a {
+    color: darkcyan;
+}
+
 h1,
 figcaption,
 #description,
