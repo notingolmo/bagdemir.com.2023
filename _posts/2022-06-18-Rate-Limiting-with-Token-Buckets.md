@@ -9,7 +9,7 @@ keywords: "Rate Limiting, Resilience"
 category: Cloud Engineering
 image:  '/images/20.jpg'
 tags:
-- Cloud Computing
+- Cloud Engineering
 - Rate Limiting
 - Resilience
 ---

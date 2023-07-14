@@ -10,6 +10,7 @@ category: Programming
 image:  '/images/17.jpg'
 tags:
 - Golang
+- Programming
 ---
  
 While developing a terminal application with Golang, I recently struggled with the implementation of a feature, that was the responsiveness of the terminal application to window size changes. The task was to re-draw my ASCII UI whenever the terminal window get resized. Fortunately, POSIX compliant operating systems send a proper signal to notify the process, that is SIGWINCH and to write a signal handler in Golang is pretty straightforward: 

@@ -12,7 +12,6 @@ tags:
 - Load Testing
 - Performance Testing
 - Java
-- Rhino
 ---
 
 Rhino Load and Performance Testing Framework is a sub-project of the Rhino umbrella project and an SDK which 
