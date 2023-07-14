@@ -11,7 +11,7 @@ image:  '/images/07.jpg'
 tags:
 - Java
 - Spring
-- OAuth 2.0
+- OAuth
 - Security
 ---
  

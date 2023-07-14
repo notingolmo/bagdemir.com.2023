@@ -9,7 +9,7 @@ keywords: "Distributed Systems"
 category: Cloud Engineering
 image:  '/images/21.jpg'
 tags:
-- Cloud Computing
+- Cloud Engineering
 - Distributed Systems
 - Consistent Hasing
 ---
