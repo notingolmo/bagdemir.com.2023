@@ -3,6 +3,7 @@ layout: post
 title: "Responsive Terminal Applications in Golang"
 description: "While developing a terminal application with Golang, I recently struggled with the implementation of a feature, that was the responsiveness of the terminal application to window size changes."
 date: 2021-05-08 16:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Golang, Terminal"
 category: Programming

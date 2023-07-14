@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Matrix URIs, their semantics and usage in Java RESTful Services"
-author: erhan
+author: Erhan Bagdemir
 image:  '/images/19.jpg'
 comments: true
 keywords: "HTTP, REST"

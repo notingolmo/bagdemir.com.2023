@@ -3,6 +3,7 @@ layout: post
 title: "Rate Limiting with Token Buckets"
 description: "In services landscape, rate limiting is not only a requirement to protect the available resources from getting exhausted and failing in the end, but it is also vital for attaining fair resource sharing among your users and also application clients."
 date: 2022-06-01 08:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Rate Limiting, Resilience"
 category: Cloud Engineering

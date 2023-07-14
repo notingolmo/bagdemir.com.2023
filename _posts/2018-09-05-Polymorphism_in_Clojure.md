@@ -3,6 +3,7 @@ layout: post
 title: "Protocols and multimethods"
 description: "Clojure provides multimethods and protocols which enables developers to implement runtime polymorphism."
 date: 2018-09-05 16:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Clojure, Programming"
 category: Software Engineering

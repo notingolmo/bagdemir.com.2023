@@ -3,6 +3,7 @@ layout: post
 title: "Dockerized Java Enterprise"
 description: "Docker has definitely changed the developer's culture in Java Enterprise."
 date: 2018-07-07 16:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Java, Docker"
 image:  '/images/09.jpg'

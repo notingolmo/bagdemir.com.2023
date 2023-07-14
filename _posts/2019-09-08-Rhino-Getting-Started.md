@@ -2,7 +2,7 @@
 layout: post
 title:  "Rhino: Load Testing Framework"
 description:  "Create JUnit-style load and performance tests in Java."
-author: erhan
+author: Erhan Bagdemir
 image:  '/images/03.jpg'
 comments: true
 keywords: "Java, Load Testing"
