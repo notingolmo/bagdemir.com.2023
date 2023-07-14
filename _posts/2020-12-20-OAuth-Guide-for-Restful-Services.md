@@ -3,6 +3,7 @@ layout: post
 title: "A Guide to OAuth for RESTful Webservices"
 description: "Using OAuth 2.0 as so to manage authorization and to control user access on your REST resources is essential part of enterprise Java applications."
 date: 2020-12-20 16:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Java, Spring, OAuth 2.0, Spring Security"
 category: Cloud Engineering

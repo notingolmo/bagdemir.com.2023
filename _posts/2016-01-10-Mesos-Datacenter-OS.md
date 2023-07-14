@@ -3,6 +3,7 @@ layout: post
 title: "Mesos: A Datacenter OS"
 description: "The need of orchestration of heterogeneous infrastructure, non-unified characteristics of the hardware on different server systems and fluctuating resource needs of software and the challenges in resource utilisation, urges us to rethink, how to deal with the vast amount of servers in our datacenters."
 date: 2016-01-10 16:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Mesos, Infrastructure"
 category: Cloud Engineering

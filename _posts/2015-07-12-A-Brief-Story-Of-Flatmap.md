@@ -3,8 +3,9 @@ layout: post
 title: "A Brief Story of flatMap"
 description: "The function flatMap, in Scala, is basically a binding element (and also a functional combinator) in the language and key to understand some important concepts of functional programming, and in this blog article, I am going to introduce you some of these, which are heavily based on flatMap."
 date: 2015-07-12 16:41:50
+author: Erhan Bagdemir
 comments: true
-keywords: "Programming"
+keywords: "Scala, Programming, Functional Programming"
 category: Programming
 tags:
 - Scala

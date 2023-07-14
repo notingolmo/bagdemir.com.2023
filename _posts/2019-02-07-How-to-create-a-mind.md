@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Create a Mind (A Book Review)"
-author: erhan
+author: Erhan Bagdemir
 image:  '/images/10.jpg'
 comments: true
 keywords: "Artifical Intelligence, Book Review"

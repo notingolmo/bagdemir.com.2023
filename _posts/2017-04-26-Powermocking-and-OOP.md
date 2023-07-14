@@ -3,6 +3,7 @@ layout: post
 title: "Powermocking and OOP"
 description: "Encapsulation helps us to define boundaries of data and behavior within a class, though there are mocking frameworks which bend the rules of this protection."
 date: 2017-04-09 16:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Java, Testing, Mocking"
 image:  '/images/08.jpg'

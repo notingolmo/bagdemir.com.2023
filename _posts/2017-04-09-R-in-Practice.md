@@ -3,9 +3,10 @@ layout: post
 title: "R in Practice: Pipes"
 description: "The more I write code in R, the more I am impressed with the facilities that the language provides which is perfectly tailored to cleaning and tidying data, one of the most crucial steps in statistical analysis."
 date: 2017-04-09 16:41:50
+author: Erhan Bagdemir
 comments: true
-keywords: "R, Statistics"
-category: Artificial Intelligence
+keywords: "R, Statistics, Data Science"
+category: Data Science
 tags:
 - Data Science
 - Machine Learning

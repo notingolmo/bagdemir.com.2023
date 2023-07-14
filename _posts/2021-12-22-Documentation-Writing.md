@@ -3,6 +3,7 @@ layout: post
 title: "Writing documentation, we struggle with"
 description: "Writing documentation is not an easy task. It is sometimes more challenging - and not that spectacular, than writing source code since we as developers are trained how to deal with computers, but we may not know how people work."
 date: 2021-12-22 08:41:50
+author: Erhan Bagdemir
 comments: true
 keywords: "Random"
 category: Misc

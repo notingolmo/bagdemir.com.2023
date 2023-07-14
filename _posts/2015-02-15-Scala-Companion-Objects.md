@@ -3,11 +3,13 @@ layout: post
 title: "Scala Companion Objects"
 description: "It’s a very common approach to create new objects using factory methods in object-oriented programming as it is in Java."
 date: 2015-02-15 16:41:50
+author: Erhan Bagdemir
 comments: true
-keywords: "Programming"
+keywords: "Scala, Programming"
 category: Programming
 tags:
 - Programming
+- Scala
 ---
 
 
