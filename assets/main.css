@@ -4,11 +4,13 @@
 }
 
 body {
-    font-family: "Roboto";
+    font-family:  "DejaVu Serif", "Bitstream Vera Serif", Georgia, serif;
+    background-color: #f6f5ed;
+    max-width: 704px;
 }
 
 a {
-    color: darkcyan;
+    color: rgb(195, 12, 12);
 }
 
 h1,
@@ -19,12 +21,13 @@ figcaption,
     text-align: center;
 }
 
+
 h2 {
     margin-bottom: 0px;
 }
 
 #title a {
-    color: darkcyan;
+    color: rgb(195, 12, 12);
 }
 
 #navigation a {

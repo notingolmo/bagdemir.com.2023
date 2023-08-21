@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Never send a human to do a machine's job.
+title: Erhan Bağdemir
 email: erhan@bagdemir.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there, here is Erhan and I'm a software engineer and a passionate photographer and in this blog I am writing about information technology.
+  Hey there, here is Erhan and I'm a software engineer and a passionate <a href="https://500px.com/p/notingolmo?view=photos">photographer</a> and in this blog I am writing about information technology. You can also find me on <a href="">Twitter</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 destination: "target"
 url: "https://bagdemir.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,7 +39,7 @@ disqus: watery-jekyll
 author: Erhan Bagdemir
 author_bio: >-
   Hey there, my name is Erhan and I'm a software engineer and a passionate photographer writing about information technology.
-author_pic: /images/profile_2023.png
+author_pic: /images/profile_2021.png
 
 paginate: 4
 paginate_path: "/:num/"
