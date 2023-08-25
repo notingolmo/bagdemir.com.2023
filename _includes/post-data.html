@@ -22,7 +22,7 @@
         {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
         {%- endif -%}
-        &#8239;|&#8239; 
+        &#8239;|&#8239;&nbsp;
         {%- for tag in page.tags -%}
             <a class="p-category" href="/tags/#{{ tag }}">{{ tag }}</a>&#8239;
             {%- if forloop.last == false %}, {% endif -%}
