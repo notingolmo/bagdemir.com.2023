@@ -16,24 +16,21 @@
 
     <div id="social" style="margin: auto; width: 100%; justify-content: center; display: flex;">
         <a href="https://twitter.com/{{site.twitter}}" rel="me">
-            <img src="/images/icons/icons8-twitter.png" width="36">
+            <img src="/images/icons/icons150-tw.png" width="50">
         </a>
         
         <a href="https://www.linkedin.com/in/{{site.in}}" rel="me">
-            <img src="/images/icons/icons8-linkedin.png" width="36">
+            <img src="/images/icons/icons150-ln.png" width="50">
         </a>
                
-        <a href="https://github.com/{{site.github}}" rel="me">
-            <img src="/images/icons/icons8-octocat.png" width="36">
+        <a href="https://ryos.io" rel="me">
+            <img src="/images/icons/icons150-med.png" width="50">
         </a>
 
-        <a href="https://www.youtube.com/channel/{{site.youtube}}" rel="me">
-            <img src="/images/icons/icons8-youtube-logo.png" width="36">
+        <a href="/feed.xml" rel="me">
+            <img src="/images/icons/icons150-rss.png" width="50">
         </a>
 
-        <a href="https://stackoverflow.com/users/{{site.stack}}" rel="me">
-            <img src="/images/icons/icons8-stack-overflow.png" width="36">
-        </a>
     </div>
 
     <br />
@@ -41,12 +38,11 @@
     <nav id="navigation">
         <a href="https://bagdemir.com">Home</a> | 
         <a href="/">Articles</a>
-        |
+
         {% for page in site.pages %}
-            <a href="{{ page.url }}">{{page.title}}</a>
             |
+            <a href="{{ page.url }}">{{page.title}}</a>
         {% endfor %}
-        <a href="/feed.xml">RSS</a>
     </nav>
     <hr/>
 </header>
