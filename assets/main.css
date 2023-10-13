@@ -1,10 +1,16 @@
 @font-face {
-    font-family: "Reddit";
-    src: url('fonts/Montserrat/Montserrat-VariableFont_wght.ttf');
+    font-family: "Raleway Regular";
+    src: url('fonts/Raleway/Raleway-Regular.ttf');
 }
 
+@font-face {
+    font-family: "Raleway Bold";
+    src: url('fonts/Raleway/Raleway-Bold.ttf');
+}
+
+
 body {
-    font-family:  "Reddit";
+    font-family:  "Raleway Regular";
     background-color: #f6f5ed;
     max-width: 704px;
     color: #242424;
@@ -23,9 +29,13 @@ figcaption,
     text-align: center;
 }
 
+#title {
+    font-family: "Raleway Bold";
+}
 
 h2 {
     margin-bottom: 0px;
+    font-family: "Raleway Bold";
 }
 
 #title a {
@@ -33,7 +43,7 @@ h2 {
 }
 
 #navigation a {
-    font-weight: bold;
+    font-family: "Raleway Bold";
 }
 
 #h-card {

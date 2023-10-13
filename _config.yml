@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Erhan Bağdemir's Blog
+title: Perfect Simplicity
 email: erhan@bagdemir.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there, here is Erhan and I'm a software engineer and a passionate <a href="https://500px.com/p/notingolmo?view=photos">photographer</a> and in this blog I am writing about information technology. You can also find me on <a href="">Twitter</a>.
