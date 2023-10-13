@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "Roboto";
-    src: url('fonts/Roboto-Regular.ttf');
+    font-family: "Reddit";
+    src: url('fonts/Montserrat/Montserrat-VariableFont_wght.ttf');
 }
 
 body {
-    font-family:  "DejaVu Serif", "Bitstream Vera Serif", Georgia, serif;
+    font-family:  "Reddit";
     background-color: #f6f5ed;
     max-width: 704px;
     color: #242424;
