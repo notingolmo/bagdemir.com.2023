@@ -40,7 +40,7 @@ content-type: eg
                 </ul>
             </div>
 
-            <div style="box-sizing: border-box; width: 50%">
+            <div style="box-sizing: border-box; width: 50%; text-align: left">
                 <h3 id="{{ tag2 | first }}">{{ tag2 | first | capitalize }}</h3>
                 <ul>
                 {% for post in tag2.last %}
