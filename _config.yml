@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Perfect Simplicity
-email: erhan@bagdemir.com
+email: erhan@reevik.net
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there, here is Erhan and I'm a software engineer and a passionate <a href="https://500px.com/p/notingolmo?view=photos">photographer</a> and in this blog I am writing about information technology. You can also find me on <a href="">Twitter</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 destination: "target"
-url: "https://bagdemir.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://reevik.net" # the base hostname & protocol for your site, e.g. http://example.com
 repository: brennanbrown/watery
-twitter: notingolmo
-github: notingolmo
+twitter: reevik
+github: reevik
 stack: 481863/erhan-bagdemir?tab=profile
 in: erhan-bagdemir
 youtube: UC6pZFa7DTotmtLraxtxDxfQ
