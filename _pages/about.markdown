@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I was born in 1981 in Izmir, Turkey's west coast. After a still childhood, I was interested in computer programming in my early high school days, which I took up as a hobby but became my profession later.
+Hey there. I am Erhan. I was born in the early 80s in Izmir, Türkiye's west coast. After a still childhood, my interest in computer programming peaked in my early high school days, which I took up as a hobby but became my profession later.
 
-I hold a bachelor's degree in Mechanical Engineering and a master's degree in Computer Science. I am an experienced Java programmer, a mechanical engineer, a software engineer, and a science and technology enthusiast. I work at Adobe Systems as a Computer Scientist focusing on Distributed Systems and Web Services. I am also a passionate hobby researcher in data mining, information retrieval, machine learning, and artificial intelligence. In addition, contributed to F/OSS projects and led open source projects Rhino.
+I hold a bachelor's degree in Mechanical Engineering and a master's degree in Computer Science. I am an experienced software engineer, mechanical engineer, and a science and technology enthusiast. I have worked at Adobe Systems as a Software Engineer focusing on Distributed Systems and Web Services. I am also a passionate hobby researcher in data mining, information retrieval, machine learning, and artificial intelligence. 
 
-Besides science and technology, I am interested in photography and music. So, in my spare time, I play my electric guitar and take photos in the streets, which I use in my blog articles to look them crispy.
+In addition to science and tech stuff, I occasionally take photographs, draw comics, and play electric guitar in my spare time.
 
-If you want to contact me, please pick one of the links on the left side, or send an e-mail to erhan 'that sign 'bagdemir 'dot' com.
+If you want to contact me, please pick one of the links on the left, or drop an e-mail erhan 'that sign 'reevik 'dot' net.
