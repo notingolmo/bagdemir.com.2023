@@ -21,7 +21,7 @@
 title: Perfect Simplicity
 email: erhan@reevik.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there, here is Erhan and I'm a software engineer and a passionate <a href="_pages/projects.markdown">photographer</a> and in this blog I am writing about information technology. You can also find me on <a href="https://twitter.com/reevik">Twitter</a>.
+  Hey there, here is Erhan and I'm a software engineer and a passionate <a href="https://reevik.net/photography/">photographer</a> and in this blog I am writing about information technology. You can also find me on <a href="https://twitter.com/reevik">Twitter</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 destination: "target"
 url: "https://reevik.net" # the base hostname & protocol for your site, e.g. http://example.com
