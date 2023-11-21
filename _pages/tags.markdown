@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Categories
+title: By Category
 permalink: /tags/
 content-type: eg
 ---
@@ -31,8 +31,8 @@ content-type: eg
 
         {% if tag1 != "" and tag2 != "" %}
 
-            <div style="box-sizing: border-box; width: 50%; text-align: left">
-                <h3 id="{{ tag1 | first }}">{{ tag1 | first | capitalize }}</h3>
+            <div style="box-sizing: border-box; width: 50%; text-align: left; padding: 5px">
+                <h3 id="{{ tag1 | first }}">{{ tag1 | first | capitalize }}<hr/></h3>
                 <ul>
                 {% for post in tag1.last %}
                     <li><a href="{{post.url}}">{{ post.title }}</a></li>
@@ -40,8 +40,8 @@ content-type: eg
                 </ul>
             </div>
 
-            <div style="box-sizing: border-box; width: 50%; text-align: left">
-                <h3 id="{{ tag2 | first }}">{{ tag2 | first | capitalize }}</h3>
+            <div style="box-sizing: border-box; width: 50%; text-align: left; padding: 5px">
+                <h3 id="{{ tag2 | first }}">{{ tag2 | first | capitalize }}<hr/></h3>
                 <ul>
                 {% for post in tag2.last %}
                     <li><a href="{{post.url}}">{{ post.title }}</a></li>
