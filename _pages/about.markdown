@@ -22,6 +22,7 @@ If you want to contact me, please pick one of the links on the left, or drop an 
 <li>Business profile on <a href="https://www.linkedin.com/in/erhan-bagdemir/">Linkedin</a>.</li>
 <li><a href="https://medium.com/@bagdemir">Medium articles</a>.</li>
 <li>Open source projects on <a href="https://github.com/reevik">Github</a>.</li>
+<li>Mastodon, <a href="https://mastodon.social/@reevik">@reevik@mastodon.social</a>,</li>
 <li>And last but not least, <a href="https://twitter.com/reevik">Twitter</a>.
 <br/>
 <br/>
