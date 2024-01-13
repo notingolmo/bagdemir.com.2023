@@ -5,10 +5,10 @@ author: Erhan Bagdemir
 image:  '/images/10.jpg'
 comments: true
 keywords: "Artifical Intelligence, Book Review"
-category: Book Reviews
+category: Misc
 tags:
-- Java
-- Coroutines
+- Artifical Intelligence
+- Book Review
 ---
 
 

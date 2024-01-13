@@ -6,7 +6,7 @@ date: 2017-04-09 16:41:50
 author: Erhan Bagdemir
 comments: true
 keywords: "R, Statistics, Data Science"
-category: Statistics
+category: Misc
 tags:
 - Data Science
 - Statistics
