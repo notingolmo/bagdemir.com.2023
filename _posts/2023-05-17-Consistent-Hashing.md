@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Consistent Hashing"
+title: "Consistent Hashing Demystified"
 description: "Consistent Hash Ring is a widely used technique in the process of distributing and load balancing data or operational workload across multiple system components with high fault tolerance."
 date: 2023-05-17 08:41:50
 author: Erhan Bagdemir
