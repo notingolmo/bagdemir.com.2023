@@ -18,12 +18,12 @@ permalink: /projects/
 
 <div style="clear: both"></div>
 <div>
-    <div style="float: left"><img src="/assets/mikron-logo.png" width=150 /></div>
+    <div style="float: left;"><img src="/assets/shade-logo.png" width=150 /></div>
     <div>
         <br/>
         2023 | A <a href="/testing/2023/12/27/Darkest/">shadow testing and a dark launching</a> framework for Java, to stealth tests new features before the GA. It can perform A/B testing and report discrepancies between the old and new state.
 
-        <p><a href="https://github.com/reevik/darkest">Github</a></p>
+        <p><a href="https://github.com/reevik/shade">Github</a></p>
 
     </div>
 </div>
