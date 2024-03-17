@@ -41,6 +41,8 @@ window.addEventListener("load", () => {
     userId: "111609027378633433",
     profileName: "@reevik",
     maxNbPostShow: "5",
+    maxNbPostFetch: "5",
+    defaultTheme: "light"
     });
 });
     
