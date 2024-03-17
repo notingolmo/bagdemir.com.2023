@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Micro Blog
+title: Microblog
 permalink: /microblog/
 ---
 
