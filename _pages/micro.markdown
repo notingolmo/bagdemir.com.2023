@@ -6,11 +6,7 @@ permalink: /microblog/
 
 <style>
     .mt-body {
-        padding: 0px;
-        background-color: #f6f5ed;
-        --mt-color-link: rgb(195, 12, 12);
-        --mt-color-bg: #f6f5ed;
-        --mt-color-btn-bg: #000;
+        --mt-color-link: #ff4d4d;
         margin-bottom: 0;
     }
     .mt-post-counter-bar {
@@ -22,6 +18,7 @@ permalink: /microblog/
     }
 
     .mt-post {
+        text-align: left;
         border-top: 0px;
         border-bottom: 0px;
     }
@@ -42,7 +39,7 @@ window.addEventListener("load", () => {
     profileName: "@reevik",
     maxNbPostShow: "5",
     maxNbPostFetch: "5",
-    defaultTheme: "light"
+    defaultTheme: "dark"
     });
 });
     
